@@ -1,0 +1,4 @@
+export const supaUrl = 'https://yanforpkjaywbbrkeuun.supabase.co';
+
+
+export const anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlhbmZvcnBramF5d2JicmtldXVuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc4NzA0MTcsImV4cCI6MjA2MzQ0NjQxN30.xl5fAdrLvzVlDW0EeJOV7asBcx6o0U9VU4lxX3RXXPg'
